@@ -6,7 +6,9 @@
       "outputLocation": "out",
       "appBuildCommand": "npm run build",
       "run": "npm run dev",
-      "appDevserverUrl": "http://localhost:3000"
+      "appDevserverUrl": "http://localhost:3000",
+      "appName": "bngserver",
+      "resourceGroup": "bngserver-rg"
     }
   }
 }
